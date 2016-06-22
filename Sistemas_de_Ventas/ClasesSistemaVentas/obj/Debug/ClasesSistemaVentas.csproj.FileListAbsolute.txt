@@ -1,0 +1,7 @@
+C:\SistemaPuntoVenta\Sistemas_de_Ventas\ClasesSistemaVentas\bin\Debug\ClasesSistemaVentas.dll
+C:\SistemaPuntoVenta\Sistemas_de_Ventas\ClasesSistemaVentas\bin\Debug\ClasesSistemaVentas.pdb
+C:\SistemaPuntoVenta\Sistemas_de_Ventas\ClasesSistemaVentas\obj\Debug\ClasesSistemaVentas.csprojResolveAssemblyReference.cache
+C:\SistemaPuntoVenta\Sistemas_de_Ventas\ClasesSistemaVentas\obj\Debug\ClasesSistemaVentas.dll
+C:\SistemaPuntoVenta\Sistemas_de_Ventas\ClasesSistemaVentas\obj\Debug\ClasesSistemaVentas.pdb
+C:\SistemaPuntoVenta\Sistemas_de_Ventas\ClasesSistemaVentas\bin\Debug\MySql.Data.dll
+C:\SistemaPuntoVenta\Sistemas_de_Ventas\ClasesSistemaVentas\bin\Debug\itextsharp.dll
